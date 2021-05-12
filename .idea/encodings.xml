@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../feijidazhan/src/main/Airplane.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../feijidazhan/src/main/Award.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../feijidazhan/src/main/Bee.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../feijidazhan/src/main/Bullet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../feijidazhan/src/main/Enemy.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../feijidazhan/src/main/FlyingObject.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../feijidazhan/src/main/Hero.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../feijidazhan/src/main/ShootGame.java" charset="GBK" />
+  </component>
+</project>

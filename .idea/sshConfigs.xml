@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="192.168.1.100" id="623e9fc4-fb79-441b-9836-2078a19f8428" port="22" customName="电商推荐系统" nameFormat="CUSTOM" username="root">
+        <option name="customName" value="电商推荐系统" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="192.168.1.100" id="0f5ba42f-6cbb-488e-b177-660a9c00f9cf" port="22" customName="电商推荐系统" nameFormat="CUSTOM" username="root">
+        <option name="customName" value="电商推荐系统" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="192.168.1.100" id="0d04952f-a6d8-4a8f-871d-3610d14713ac" port="22" customName="电商推荐系统" nameFormat="CUSTOM">
+        <option name="customName" value="电商推荐系统" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>
